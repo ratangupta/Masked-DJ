@@ -1,0 +1,2 @@
+# Masked-DJ
+Conducted a comprehensive security assessment for the IT Environment of a hypothetical Masked DJ Managed a team of 3 to perform Penetration Test and deliver a report to the Masked DJ to harden their system from any existing vulnerabilities. Breached and was able to get persistence on all 4 machine in their infrastructure and retrieve confidential information from their AWS account. Used NMap for reconnaissance, MS17-010 Eternal blue in Metasploit and JohnTheRipper for privilege escalation and Metasploit for Living-Off-the-Land.
